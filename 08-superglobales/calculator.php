@@ -74,22 +74,3 @@ if (!empty($_POST)) { // Savoir si le formulaire a été soumis
 
 	echo $resultat;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
